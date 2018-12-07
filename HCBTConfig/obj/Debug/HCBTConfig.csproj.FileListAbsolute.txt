@@ -1,0 +1,9 @@
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\bin\Debug\HCBTConfig.exe
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\bin\Debug\HCBTConfig.pdb
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.csprojAssemblyReference.cache
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.Form1.resources
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.Properties.Resources.resources
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.csproj.GenerateResource.cache
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.csproj.CoreCompileInputs.cache
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.exe
+D:\projects\BluetoothUARTConfigUtil\HCBTConfig\obj\Debug\HCBTConfig.pdb
